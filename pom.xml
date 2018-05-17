@@ -5,10 +5,9 @@
 >
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cn.truly</groupId>
-	<artifactId>test3</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>test3 Maven Webapp</name>
+	<name>ssh_crm Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<!-- 本人将配置包的版本信息都统一放入此处，方便以后管理 -->
 	<properties>
@@ -153,4 +152,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<artifactId>ssh_crm</artifactId>
 </project>

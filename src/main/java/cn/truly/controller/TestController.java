@@ -71,7 +71,10 @@ public class TestController {
 		personService.flush();
 	}
 	
-	
-
+//	登录
+	@RequestMapping(value = "/login")
+	public String login() {
+		return "crud";
+	}
 	
 }
