@@ -1,0 +1,95 @@
+[{    
+    "id": 1,    
+    "text": "系统管理",    
+    "state": "open",    
+    "children": [{    
+        "id": 11,    
+        "text": "员工管理",
+        "iconCls":"icon-man",
+        "url":"/emp/index"  
+    },{    
+        "id": 12,    
+        "text": "菜单管理",
+        "iconCls":"icon-lock",
+        "url":"/systemmenu/index"   
+    },{    
+        "id": 13,    
+        "text": "部门管理",
+        "iconCls":"icon-lock",
+        "url":"/dept/index"   
+    },
+    {    
+        "id": 14,    
+        "text": "角色管理",
+        "iconCls":"icon-lock",
+        "url":"/role/index"   
+    }]    
+},
+{    
+    "id": 2,    
+    "text": "功能管理",    
+    "state": "open",    
+    "children": [{    
+        "id": 14,    
+        "text": "模块管理",
+        "iconCls":"icon-man",
+        "url":"xxx2.action"  
+    },{    
+        "id": 15,    
+        "text": "权限管理",
+        "iconCls":"icon-lock",
+        "url":"xxx2.action"   
+    }]    
+},
+{    
+    "id": 3,    
+    "text": "业务管理",    
+    "state": "open",    
+    "children": [{    
+        "id": 17,    
+        "text": "顾客管理",
+        "iconCls":"icon-man",
+        "url":"/customer/index"  
+
+    },{    
+        "id": 16,    
+        "text": "订单管理",
+        "iconCls":"icon-lock",
+        "url":"/order/index"   
+    },{    
+        "id": 18,    
+        "text": "合同管理",
+        "iconCls":"icon-lock",
+        "url":"/contract/index"   
+    },{    
+        "id": 17,    
+        "text": "保修管理",
+        "iconCls":"icon-lock",
+        "url":"/aftersale/index"   
+
+    },{    
+        "id": 19,    
+        "text": "潜在顾客管理",
+        "iconCls":"icon-man",
+        "url":"/potentialcustomer/index"  
+    },{    
+        "id": 20,    
+        "text": "客户跟进历史",
+        "iconCls":"icon-man",
+        "url":"/customertracehistory/index"  
+
+    },{    
+        "id": 21,    
+        "text": "客户开发计划",
+        "iconCls":"icon-man",
+        "url":"/customerdevplan/index"  
+
+    },{    
+        "id": 22,    
+        "text": "客户移交记录",
+        "iconCls":"icon-man",
+        "url":"/customertransfer/index"  
+
+    }] 
+}] 
+
